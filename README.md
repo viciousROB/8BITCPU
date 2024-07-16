@@ -41,8 +41,8 @@ To run this project, you need a Verilog simulator like ModelSim, Vivado, or any 
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone <https://github.com/viciousROB/8BITCPU>
+   ```
 2. Ensure you have a Verilog simulator installed on your system.
 
 ## Simulation
